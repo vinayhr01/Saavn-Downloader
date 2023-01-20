@@ -126,6 +126,3 @@ $ Enter the password: password_you_want_to_use
 ### Development
 
 Want to contribute? Great!
-
-## License
-This program is licensed under [MIT License](https://raw.githubusercontent.com/monuyadav016/Saavn-downloader/master/LICENSE)
