@@ -127,12 +127,5 @@ $ Enter the password: password_you_want_to_use
 
 Want to contribute? Great!
 
-
-### Contributors
-  - Arun ( Discovering Vulnerability in Saavn App )
-  - [prabaprakash](https://github.com/prabaprakash/)
-  - [monuyadav016](https://github.com/monuyadav016)
-
-
 ## License
 This program is licensed under [MIT License](https://raw.githubusercontent.com/monuyadav016/Saavn-downloader/master/LICENSE)
